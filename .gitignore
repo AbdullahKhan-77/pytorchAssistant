@@ -1,0 +1,18 @@
+# Python virtual environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Generated data (regenerable by running the pipeline — kept out of the repo)
+pytorch_docs_raw.json
+pytorch_chunks.json
+chroma_db/
+
+# HuggingFace model cache
+.cache/
+
+# OS / editor
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
