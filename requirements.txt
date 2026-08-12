@@ -1,0 +1,7 @@
+torch
+sentence-transformers
+chromadb
+transformers
+accelerate
+bitsandbytes
+gradio
